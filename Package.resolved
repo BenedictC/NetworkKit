@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Properations",
+        "repositoryURL": "https://github.com/benedictc/Properations",
+        "state": {
+          "branch": null,
+          "revision": "5a86c1b75ae4efac198a7225d536646173b1c008",
+          "version": "0.2.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
